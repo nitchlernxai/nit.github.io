@@ -8,12 +8,11 @@
 section{
     padding: 100px;
     font-family: 'Prompt', sans-serif;
-
 }
 .banner{
     position: relative;
     min-height: 100vh;
-    background: url(/imgg/tunit.jpg);
+    background: url(imgg/tunit.jpg);
     background-size: cover;
     background-position: right;
     display: flex;
