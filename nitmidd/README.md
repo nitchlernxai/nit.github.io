@@ -1,0 +1,3 @@
+tha r jarn perd br dai lah perd u bracket pn folder lei dr phc hao ka br hu va pn y mun khue perd to dw2 lei br dai mun trng dai perd pn folder lei nah jg dai
+
+If you can't the full web page just like u can't see the the imformation u must download the full folder of my website and open with website create program: visual studio, bracket.......
